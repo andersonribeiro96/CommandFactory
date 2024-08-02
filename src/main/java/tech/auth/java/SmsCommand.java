@@ -1,4 +1,4 @@
-package tech.auth;
+package tech.auth.java;
 
 public class SmsCommand implements Command {
     private final String phoneNumber;

@@ -1,4 +1,4 @@
-package tech.auth;
+package tech.auth.java;
 
 public class EmailCommand implements Command {
 

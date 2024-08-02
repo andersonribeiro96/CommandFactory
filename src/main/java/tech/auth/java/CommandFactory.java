@@ -1,4 +1,4 @@
-package tech.auth;
+package tech.auth.java;
 
 import java.util.HashMap;
 import java.util.Map;
